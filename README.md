@@ -6,7 +6,7 @@ A collection of news API data, a "daily digest" of sorts with personality.
 [View demo here](https://replit.com/@ari789/good-morning-bot?v=1)
 
 ### Local Setup
-'''
+```
 pip install -r requirements.txt
 python3 main.py
-'''
+```
