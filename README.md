@@ -10,6 +10,7 @@ Clone repository
 ```
 git clone git@github.com:ari789/good-morning-bot.git
 ```
+Run using python3
 ```
 pip install -r requirements.txt
 python3 main.py
